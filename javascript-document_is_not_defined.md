@@ -4,4 +4,4 @@ Let's further asume you want to test your stuff with some kind of nodejs test ru
 
 That's when you might run into a problem with document is not defined. Which makes sense and sounds right and all. To circumwent this error my first atempt was to just say const cookies = !document ? document.cookie : ''.
 
-BUt to my suprise this throws ecactly the same error. Me: w ... t ... f? I just you. What to do when there is no document. 
+But to my suprise this throws ecactly the same error. Me: w ... t ... f? I just you. What to do when there is no document. 
