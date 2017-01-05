@@ -1,3 +1,1 @@
-
-git log master... --pretty=format:'* [link/to/repo/%h](%h) %s [mailto:%ae](%an) ' --reverse g l master... --pretty=format:'* [https://agency-code.googlesource.com/gweb-partner-mapsforwork/+/%h](%h) %s [mailto:%ae](%an) ' --reverse | grep -v "Merge"g l master... --pretty=format:'* [https://agency-code.googlesource.com/gweb-partner-mapsforwork/+/%h](%h) %s [mailto:%ae](%an) ' --reverse | grep -v "Merge"
-
+  git log master... --pretty=format:'* [link/to/repo/%h](%h) %s [mailto:%ae](%an) ' --reverse g l master... --pretty=format:'* [https://agency-code.googlesource.com/gweb-partner-mapsforwork/+/%h](%h) %s [mailto:%ae](%an) ' --reverse 
